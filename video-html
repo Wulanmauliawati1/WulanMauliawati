@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> Video </title>
+</head>
+<body>
+  <h1> Pemrograman Web I </h1>
+  <video controls>
+    <source src="programmer.mp4" type="video/mp4" />
+  </video>
+</body>
+</html>
